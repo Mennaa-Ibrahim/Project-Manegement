@@ -12,7 +12,9 @@
 Welcome! I'm Menna Ibrahim. This is a comprehensive project management roadmap I built and refined throughout my university journey.  
 My goal is to make this guide rich, thorough, and resourceful for everyone. It includes a wide variety of curated resources and learning paths to help you grow. 
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
+</p>
 
 ## 📍 Table of Contents
 - [📚 Books & Reading List](#-books--reading-list)
@@ -54,6 +56,9 @@ _A curated collection of must-read books for anyone looking to master Product an
 
 
 ## 🛠️ Tools & Software
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
+</p>
 
 - 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
   ↳ 📹 <small>[Jira Full Course for Beginners](https://www.youtube.com/watch?v=63vS_vM1Y6E)</small>
