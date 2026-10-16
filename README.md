@@ -20,6 +20,8 @@ My goal is to make this guide rich, thorough, and resourceful for everyone. It i
 * [🛠️ Tools & Software](#️-tools--software)
 
 
+
+
 ## 📚 Books & Reading List
 
 Here is a curated collection of must-read books for anyone looking to master Product and Project Management—from foundational concepts to advanced execution strategies.
