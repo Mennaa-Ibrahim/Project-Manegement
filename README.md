@@ -1,4 +1,5 @@
-<p align="center">  <img width="735" height="414" alt="download (7)" src="https://github.com/user-attachments/assets/fb2b8127-ba40-4783-a5b9-3124f991d2be" /></p>
+<p align="center">  <img width="600" height="338" alt="banner idea welcome (1)" src="https://github.com/user-attachments/assets/3f0e87de-7af2-4075-a968-df75ca933d58"/>
+</p>
 
 # Project-Manegement
 Welcome! I'm Menna Ibrahim. This is a comprehensive project management roadmap I built and refined throughout my university journey.  
