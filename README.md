@@ -1,4 +1,5 @@
-<p align="center">  <img width="600" height="338" alt="banner idea welcome (1)" src="https://github.com/user-attachments/assets/3f0e87de-7af2-4075-a968-df75ca933d58"/>
+<p align="center">  <img width="736" height="414" alt="#Minecraft #aesthetic #wallpaper #livewallpaper #cute #nature #Minecraftaesthetic #майнкрафт #обоинарабочийстол #атмосфера" src="https://github.com/user-attachments/assets/f02ed697-eca1-43de-a8d4-7d0189f57c50" />
+
 </p>
 
 # Project-Manegement
