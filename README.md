@@ -41,6 +41,7 @@ Here is a curated collection of must-read books for anyone looking to master Pro
 * **[Atomic Habits](https://dn790007.ca.archive.org/0/items/atomic-habits-pdfdrive/Atomic%20habits%20%28%20PDFDrive%20%29.pdf)** - by *James Clear* (An easy & proven way to build good habits & break bad ones).
 * **[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)** - by *David Allen* (A powerful framework for organizing tasks, reducing stress, and boosting efficiency).
   
+</br></br>
 
 ## 🛠️ Tools & Software
 
