@@ -13,7 +13,7 @@ Welcome! I'm Menna Ibrahim. This is a comprehensive project management roadmap I
 My goal is to make this guide rich, thorough, and resourceful for everyone. It includes a wide variety of curated resources and learning paths to help you grow. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
 </p>
 
 ## 📍 Table of Contents
@@ -22,12 +22,11 @@ My goal is to make this guide rich, thorough, and resourceful for everyone. It i
   * [2. Time & Productivity Management](#2-time--productivity-management-)
 - [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
+</p>
 
 ## 📚 Books & Reading List
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
-</p>
 
 _A curated collection of must-read books for anyone looking to master Product and Project Management—from foundational concepts to advanced execution strategies._
 
@@ -51,12 +50,11 @@ _A curated collection of must-read books for anyone looking to master Product an
 - 📕 **[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)** _by David Allen_  
   <small>— A powerful framework for organizing tasks, reducing stress, and boosting efficiency.</small>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
+</p>
 
 ## 🛠️ Tools & Software
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
-</p>
 
 - 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
   ↳ 📹 <small>[Jira Full Course for Beginners](https://www.youtube.com/watch?v=63vS_vM1Y6E)</small>
