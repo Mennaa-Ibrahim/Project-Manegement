@@ -12,7 +12,7 @@
 Welcome! I'm Menna Ibrahim. This is a comprehensive project management roadmap I built and refined throughout my university journey.  
 My goal is to make this guide rich, thorough, and resourceful for everyone. It includes a wide variety of curated resources and learning paths to help you grow. 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## 📍 Table of Contents
@@ -21,7 +21,7 @@ My goal is to make this guide rich, thorough, and resourceful for everyone. It i
   * [2. Time & Productivity Management](#2-time--productivity-management-)
 - [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## 📚 Books & Reading List
@@ -47,10 +47,9 @@ _A curated collection of must-read books for anyone looking to master Product an
   <small>— An easy & proven way to build good habits & break bad ones.</small>
 - 📕 **[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)** _by David Allen_  
   <small>— A powerful framework for organizing tasks, reducing stress, and boosting efficiency.</small>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
-
 ## 🛠️ Tools & Software
 
 - 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
