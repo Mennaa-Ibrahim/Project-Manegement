@@ -7,16 +7,10 @@ My goal is to make this guide rich, thorough, and resourceful for everyone. It i
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## 📚 Books & Reading List
 
 Here is a curated collection of must-read books for anyone looking to master Product and Project Management—from foundational concepts to advanced execution strategies.
+
+### ⏱️ Time & Productivity Management
+
+* **[Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/162656941X)** - by *Brian Tracy* (A practical guide to overcoming procrastination and prioritizing tasks effectively).
