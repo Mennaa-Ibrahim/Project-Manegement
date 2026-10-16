@@ -13,7 +13,9 @@
 Welcome! I'm Menna Ibrahim. This is a comprehensive project management roadmap I built and refined throughout my university journey.  
 My goal is to make this guide rich, thorough, and resourceful for everyone. It includes a wide variety of curated resources and learning paths to help you grow. 
 
+---
 
+---
 
 ## 📍 Table of Contents
 * [📚 Books & Reading List](#-books--reading-list)
@@ -52,6 +54,8 @@ _A curated collection of must-read books for anyone looking to master Product an
   <small>— An easy & proven way to build good habits & break bad ones.</small>
 * 📕 **[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)** _by David Allen_  
   <small>— A powerful framework for organizing tasks, reducing stress, and boosting efficiency.</small>
+
+---
 
 ---
 
