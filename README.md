@@ -25,9 +25,8 @@ My goal is to make this guide rich, thorough, and resourceful for everyone. It i
 ---
 
 ## 📚 Books & Reading List
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
 </p>
 
 _A curated collection of must-read books for anyone looking to master Product and Project Management—from foundational concepts to advanced execution strategies._
@@ -57,7 +56,7 @@ _A curated collection of must-read books for anyone looking to master Product an
 
 ## 🛠️ Tools & Software
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
 </p>
 
 
