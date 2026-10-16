@@ -48,6 +48,7 @@ _A curated collection of must-read books for anyone looking to master Product an
 
 ---
 
+
 ## 🛠️ Tools & Software
 
 - 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>
