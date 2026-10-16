@@ -51,6 +51,13 @@ _A curated collection of must-read books for anyone looking to master Product an
 ## 🛠️ Tools & Software
 
 - 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>
+  - 📹 <small>[Jira Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=63vS_vM1Y6E)</small>
+
 - 🛠️ **[Trello](https://trello.com)** — <small>Visual kanban boards for organizing tasks and workflows.</small>
+  - 📹 <small>[Trello Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=xag_K2M2G10)</small>
+
 - 🛠️ **[Notion](https://www.notion.so)** — <small>All-in-one workspace for documentation, notes, and roadmaps.</small>
+  - 📹 <small>[Notion Full Beginner's Guide - YouTube](https://www.youtube.com/watch?v=mA7L3_4iX14)</small>
+
 - 🛠️ **[ClickUp](https://clickup.com)** — <small>Comprehensive task and workflow management platform.</small>
+  - 📹 <small>[ClickUp Complete Beginner Tutorial - YouTube](https://www.youtube.com/watch?v=m9xP3gP2_B4)</small>
