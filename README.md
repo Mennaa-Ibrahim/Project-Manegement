@@ -1,7 +1,11 @@
 <p align="center">  <img width="736" height="414" alt="#Minecraft #aesthetic #wallpaper #livewallpaper #cute #nature #Minecraftaesthetic #майнкрафт #обоинарабочийстол #атмосфера" src="https://github.com/user-attachments/assets/f02ed697-eca1-43de-a8d4-7d0189f57c50" />
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Mennaa-Ibrahim/Project-Manegement?style=for-the-badge&color=FFB6C1" />
+  <img src="https://img.shields.io/github/forks/Mennaa-Ibrahim/Project-Manegement?style=for-the-badge&color=FFD1DC" />
+  <img src="https://img.shields.io/github/last-commit/Mennaa-Ibrahim/Project-Manegement?style=for-the-badge&color=E6E6FA" />
+</p>
 
 
 # Project-Manegement
