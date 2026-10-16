@@ -1,5 +1,8 @@
 <p align="center">  <img width="736" height="414" alt="#Minecraft #aesthetic #wallpaper #livewallpaper #cute #nature #Minecraftaesthetic #майнкрафт #обоинарабочийстол #атмосфера" src="https://github.com/user-attachments/assets/f02ed697-eca1-43de-a8d4-7d0189f57c50" />
 
+<p align="center">
+  <img src="https://www.pinterest.com/pin/933300722785684164/" width="100%" />
+</p>
 </p>
 
 # Project-Manegement
