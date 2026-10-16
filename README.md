@@ -1,4 +1,4 @@
-<img width="1200" height="675" alt="christiangirlxoxo_pindown io_1792194601" src="https://github.com/user-attachments/assets/e592de2b-8358-4b65-9484-a46d0083cbad" /><p align="center">
+<p align="center">
   <img width="736" height="414" alt="Welcome Header" src="https://github.com/user-attachments/assets/f02ed697-eca1-43de-a8d4-7d0189f57c50" />
 </p>
 
@@ -11,8 +11,9 @@
 # Project-Manegement
 Welcome! I'm Menna Ibrahim. This is a comprehensive project management roadmap I built and refined throughout my university journey.  
 My goal is to make this guide rich, thorough, and resourceful for everyone. It includes a wide variety of curated resources and learning paths to help you grow. 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
 </p>
 
 ## 📍 Table of Contents
@@ -20,16 +21,18 @@ My goal is to make this guide rich, thorough, and resourceful for everyone. It i
   * [1. Project Management Fundamentals](#1-project-management-fundamentals-)
   * [2. Time & Productivity Management](#2-time--productivity-management-)
 - [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
 </p>
 
 ## 📚 Books & Reading List
 
-_A curated collection of must-read books for anyone looking to master Product and Project Management—from foundational concepts to advanced execution strategies._
+<p align="center">
+  <img width="650" alt="Books Roadmap Banner" src="https://github.com/user-attachments/assets/e592de2b-8358-4b65-9484-a46d0083cbad" />
+</p>
 
-<img width="1200" height="675" alt="christiangirlxoxo_pindown io_1792194601" src="![Uploading christiangirlxoxo_pindown.io_1792194601.gif…]()
-" /><p >
+_A curated collection of must-read books for anyone looking to master Product and Project Management—from foundational concepts to advanced execution strategies._
 
 #### 1. Project Management Fundamentals 📊
 
@@ -50,17 +53,18 @@ _A curated collection of must-read books for anyone looking to master Product an
   <small>— An easy & proven way to build good habits & break bad ones.</small>
 - 📕 **[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)** _by David Allen_  
   <small>— A powerful framework for organizing tasks, reducing stress, and boosting efficiency.</small>
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
 </p>
 
 ## 🛠️ Tools & Software
 
--  **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
+- 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
   ↳ 📹 <small>[Jira Full Course for Beginners](https://www.youtube.com/watch?v=63vS_vM1Y6E)</small>
--  **[Trello](https://trello.com)** — <small>Visual kanban boards for organizing tasks and workflows.</small>  
+- 🛠️ **[Trello](https://trello.com)** — <small>Visual kanban boards for organizing tasks and workflows.</small>  
   ↳ 📹 <small>[Trello Tutorial for Beginners](https://www.youtube.com/watch?v=xag_K2M2G10)</small>
--  **[Notion](https://www.notion.so)** — <small>All-in-one workspace for documentation, notes, and roadmaps.</small>  
+- 🛠️ **[Notion](https://www.notion.so)** — <small>All-in-one workspace for documentation, notes, and roadmaps.</small>  
   ↳ 📹 <small>[Notion Full Beginner's Guide](https://www.youtube.com/watch?v=mA7L3_4iX14)</small>
--  **[ClickUp](https://clickup.com)** — <small>Comprehensive task and workflow management platform.</small>  
+- 🛠️ **[ClickUp](https://clickup.com)** — <small>Comprehensive task and workflow management platform.</small>  
   ↳ 📹 <small>[ClickUp Complete Beginner Tutorial](https://www.youtube.com/watch?v=m9xP3gP2_B4)</small>
