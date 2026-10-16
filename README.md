@@ -28,7 +28,8 @@ My goal is to make this guide rich, thorough, and resourceful for everyone. It i
 
 _A curated collection of must-read books for anyone looking to master Product and Project Management—from foundational concepts to advanced execution strategies._
 
-![Uploading christiangirlxoxo_pindown.io_1792194601.gif…]()
+<img width="1200" height="675" alt="christiangirlxoxo_pindown io_1792194601" src="![Uploading christiangirlxoxo_pindown.io_1792194601.gif…]()
+" /><p >
 
 #### 1. Project Management Fundamentals 📊
 
