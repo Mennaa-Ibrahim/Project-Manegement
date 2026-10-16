@@ -50,13 +50,14 @@ _A curated collection of must-read books for anyone looking to master Product an
  <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
+
 ## 🛠️ Tools & Software
 
-- 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
+-  **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
   ↳ 📹 <small>[Jira Full Course for Beginners](https://www.youtube.com/watch?v=63vS_vM1Y6E)</small>
-- 🛠️ **[Trello](https://trello.com)** — <small>Visual kanban boards for organizing tasks and workflows.</small>  
+-  **[Trello](https://trello.com)** — <small>Visual kanban boards for organizing tasks and workflows.</small>  
   ↳ 📹 <small>[Trello Tutorial for Beginners](https://www.youtube.com/watch?v=xag_K2M2G10)</small>
-- 🛠️ **[Notion](https://www.notion.so)** — <small>All-in-one workspace for documentation, notes, and roadmaps.</small>  
+-  **[Notion](https://www.notion.so)** — <small>All-in-one workspace for documentation, notes, and roadmaps.</small>  
   ↳ 📹 <small>[Notion Full Beginner's Guide](https://www.youtube.com/watch?v=mA7L3_4iX14)</small>
-- 🛠️ **[ClickUp](https://clickup.com)** — <small>Comprehensive task and workflow management platform.</small>  
+-  **[ClickUp](https://clickup.com)** — <small>Comprehensive task and workflow management platform.</small>  
   ↳ 📹 <small>[ClickUp Complete Beginner Tutorial](https://www.youtube.com/watch?v=m9xP3gP2_B4)</small>
