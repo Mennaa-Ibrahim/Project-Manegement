@@ -56,6 +56,7 @@ _A curated collection of must-read books for anyone looking to master Product an
 
 
 ## 🛠️ Tools & Software
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
 </p>
