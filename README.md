@@ -15,7 +15,7 @@ Here is a curated collection of must-read books for anyone looking to master Pro
 ### 📂 Project Management Fundamentals
 
 * **[A Guide to the Project Management Body of Knowledge (PMBOK Guide)](https://www.academia.edu/63225348/A_guide_to_the_project_management_body_of_knowledge)** - by *Project Management Institute (PMI)* (The global standard and foundational reference for project management principles).
-* **[Project Management for Non-Project Managers](https://www.goodreads.com/book/show/13586821-project-management-for-non-project-managers)** - by *Jack Ferraro* (A practical guide to executing projects successfully without complex technical jargon).
+* **[Project Management for Non-Project Managers](https://tech.wayne.edu/project-management/pm-training-non-managers.pdf)** - by *Jack Ferraro* (A practical guide to executing projects successfully without complex technical jargon).
 * **[Making Things Happen: Mastering Project Management](https://www.goodreads.com/book/show/223201.Making_Things_Happen)** - by *Scott Berkun* (Insights on leadership, decision-making, and strategy in software and tech projects).
 
 ### ⏱️ Time & Productivity Management
