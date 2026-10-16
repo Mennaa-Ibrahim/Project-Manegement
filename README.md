@@ -14,3 +14,5 @@ Here is a curated collection of must-read books for anyone looking to master Pro
 ### ⏱️ Time & Productivity Management
 
 * **[Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](https://bdebooks.com/en/books/eat-that-frog-by-brian-tracy/#google_vignette)** - by *Brian Tracy* (A practical guide to overcoming procrastination and prioritizing tasks effectively).
+
+* **[Atomic Habits](https://dn790007.ca.archive.org/0/items/atomic-habits-pdfdrive/Atomic%20habits%20%28%20PDFDrive%20%29.pdf)** - by *James Clear* (An easy & proven way to build good habits & break bad ones).
