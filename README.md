@@ -56,10 +56,10 @@ _A curated collection of must-read books for anyone looking to master Product an
 
 
 ## 🛠️ Tools & Software
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-33dc-44ab-a6fb-afd4e5d775ea.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
+
 
 - 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
   ↳ 📹 <small>[Jira Full Course for Beginners](https://www.youtube.com/watch?v=63vS_vM1Y6E)</small>
