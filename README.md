@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1200" height="675" alt="christiangirlxoxo_pindown io_1792194601" src="https://github.com/user-attachments/assets/e592de2b-8358-4b65-9484-a46d0083cbad" /><p align="center">
   <img width="736" height="414" alt="Welcome Header" src="https://github.com/user-attachments/assets/f02ed697-eca1-43de-a8d4-7d0189f57c50" />
 </p>
 
@@ -27,6 +27,8 @@ My goal is to make this guide rich, thorough, and resourceful for everyone. It i
 ## 📚 Books & Reading List
 
 _A curated collection of must-read books for anyone looking to master Product and Project Management—from foundational concepts to advanced execution strategies._
+
+![Uploading christiangirlxoxo_pindown.io_1792194601.gif…]()
 
 #### 1. Project Management Fundamentals 📊
 
