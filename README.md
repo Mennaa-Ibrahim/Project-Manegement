@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="PC Wallpaper" src="https://github.com/user-attachments/assets/85be50ef-472c-48f1-848e-34bf6c2b0f8e" />
+  <img width="100%" height="280" alt="PC Wallpaper" src="https://github.com/user-attachments/assets/85be50ef-472c-48f1-848e-34bf6c2b0f8e" />
 </p>
 
 <p align="center">
