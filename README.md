@@ -11,25 +11,18 @@
 # Project-Manegement
 Welcome! I'm Menna Ibrahim. This is a comprehensive project management roadmap I built and refined throughout my university journey.  
 My goal is to make this guide rich, thorough, and resourceful for everyone. It includes a wide variety of curated resources and learning paths to help you grow. 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
-</p>
+
 
 ## 📍 Table of Contents
 - [📚 Books & Reading List](#-books--reading-list)
   * [1. Project Management Fundamentals](#1-project-management-fundamentals-)
   * [2. Time & Productivity Management](#2-time--productivity-management-)
 - [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
 </p>
 
 ## 📚 Books & Reading List
@@ -49,7 +42,6 @@ _A curated collection of must-read books for anyone looking to master Product an
 - 📕 **[Making Things Happen: Mastering Project Management](https://ia803105.us.archive.org/1/items/makingthingshappenbyscottberkun/Making%20Things%20Happen%20by%20Scott%20Berkun%20.pdf)**  
   <small>— Insights on leadership, decision-making, and strategy in software and tech projects.</small>
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
 </p>
@@ -62,7 +54,6 @@ _A curated collection of must-read books for anyone looking to master Product an
   <small>— An easy & proven way to build good habits & break bad ones.</small>
 - 📕 **[Getting Things Done: The Art of Stress-Free Productivity](https://www.goodreads.com/book/show/1633.Getting_Things_Done)** _by David Allen_  
   <small>— A powerful framework for organizing tasks, reducing stress, and boosting efficiency.</small>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/lines/purple.gif" width="100%">
 </p>
