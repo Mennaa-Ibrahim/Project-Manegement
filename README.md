@@ -60,6 +60,11 @@ _A curated collection of must-read books for anyone looking to master Product an
 
 ## 🛠️ Tools & Software
 
+<p align="center">
+<img width="1000" height="300" alt="tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300) in 2024 _ Pixel art design, Pixel art background, Pix" src="https://github.com/user-attachments/assets/77039851-d0eb-40ff-942b-7d7eaca1663b" />
+</p>
+
+
 - 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
   ↳ 📹 <small>[Jira Full Course for Beginners](https://www.youtube.com/watch?v=63vS_vM1Y6E)</small>
 - 🛠️ **[Trello](https://trello.com)** — <small>Visual kanban boards for organizing tasks and workflows.</small>  
