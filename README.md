@@ -61,10 +61,8 @@ _A curated collection of must-read books for anyone looking to master Product an
 </p>
 
 ## 🛠️ Tools & Software
+<img width="1000" height="300" alt="tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300) in 2024 _ Pixel art design, Pixel art background, Pix" src="https://github.com/user-attachments/assets/0a2ae529-9e2a-4f6c-886e-298e1b7d8efe" />
 
-<p align="center">
-  <img width="650" alt="Workspace Pixel Art" src="https://github.com/user-attachments/assets/tumblr_owi25v6uAo1r4gsiio1_1280_gif.gif" />
-</p>
 
 - 🛠️ **[Jira](https://www.atlassian.com/software/jira)** — <small>Agile project management and issue tracking tool.</small>  
   ↳ 📹 <small>[Jira Full Course for Beginners](https://www.youtube.com/watch?v=63vS_vM1Y6E)</small>
