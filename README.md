@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="736" height="414" alt="Welcome Header" src="https://github.com/user-attachments/assets/d7939b7a-bc12-4299-b395-8a1297c399d5" />
+  <img width="100%" alt="PC Wallpaper" src="https://github.com/user-attachments/assets/85be50ef-472c-48f1-848e-34bf6c2b0f8e" />
 </p>
 
 <p align="center">
