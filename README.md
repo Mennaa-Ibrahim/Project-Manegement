@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="736" height="414" alt="Welcome Header" src="https://github.com/user-attachments/assets/f02ed697-eca1-43de-a8d4-7d0189f57c50" />
+  <img width="736" height="414" alt="Welcome Header" src="<img width="736" height="414" alt="Pin by Hazél on Wallpaper _ Anime quotes inspirational, Pretty quotes, Inspirational quotes" src="https://github.com/user-attachments/assets/9c817ebe-f701-4380-ae3e-40eddfe3ac05" />
+" />
 </p>
 
 <p align="center">
